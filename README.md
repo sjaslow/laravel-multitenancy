@@ -125,4 +125,4 @@ Project Link: [https://github.com/sjaslow/laravel-multitenancy](https://github.c
 [license-shield]: https://img.shields.io/github/license/sjaslow/laravel-multitenancy.svg?style=for-the-badge
 [license-url]: https://github.com/sjaslow/laravel-multitenancy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/sjaslow
+[linkedin-url]: https://www.linkedin.com/in/sethjaslow
