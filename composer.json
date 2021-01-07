@@ -1,0 +1,14 @@
+{
+    "name": "ngdcorp/multitenancy",
+    "description": "Multitenancy support for Laravel",
+    "type": "library",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Seth Jaslow",
+            "email": "sjaslow@ngdcorp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
